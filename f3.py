@@ -1,0 +1,2 @@
+name=pavu
+print(name)
